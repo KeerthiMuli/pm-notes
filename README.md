@@ -16,7 +16,8 @@
 
 
  [More info](https://en.wikipedia.org/wiki/Project_management)
- ![Photo](PM.jpg)
+
+ ![Photo](Image/PM.jpg)
 
 
 
